@@ -17,7 +17,7 @@ Let me introduce you about myself, my name is Shreyash; 15 y.o from India.
 [![Instagram](https://img.shields.io/badge/-Instagram-FF90D8?style=for-the-badge&logo=DEV.TO&logoColor=gradientred)](https://www.instagram.com/tech_shreyash)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/Tech_Shreyash)
 
-### My Stats
+## My Stats
 ![TechShreyash's GitHub stats](https://github-readme-stats.vercel.app/api?username=TechShreyash&show_icons=true&theme=radical)
 
 [![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=TechShreyash&layout=compact&theme=midnight-purple&hide=Css)](https://github.com/TechShreyash)
