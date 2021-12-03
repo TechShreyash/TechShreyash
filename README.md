@@ -2,8 +2,6 @@
 
 Let me introduce you about myself, my name is Shreyash; 15 y.o from India.
 
-- 💬 Interested In Making Telegram Bots.
-
 ## Languages I'm Learning/Planning to Learn:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
