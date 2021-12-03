@@ -21,3 +21,5 @@ Let me introduce you about myself, my name is Shreyash; 15 y.o from India.
 ![TechShreyash's GitHub stats](https://github-readme-stats.vercel.app/api?username=TechShreyash&show_icons=true&theme=radical)
 
 [![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=TechShreyash&layout=compact&theme=midnight-purple&hide=Css)](https://github.com/TechShreyash)
+
+![](https://visitor-badge.laobi.icu/badge?page_id=TechShreyash)
