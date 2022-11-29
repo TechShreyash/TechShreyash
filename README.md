@@ -6,10 +6,10 @@ Let me introduce you about myself, my name is Shreyash; 16 y.o from India.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=techshreyash" alt="techshreyash" /></a> </p>
 
-- ⚡ Checkout My Website : https://anime-dex1.vercel.app
+- ⚡ Checkout My Website : https://animedex.live
 > Source Code : [Click Here](https://github.com/TechShreyash/AnimeDex)
 
-- 🌱 I’m currently learning **Python, Css, Javascript**
+- 🌱 I’m currently learning **Nothing**
 
 - 📫 How to reach me **shreyashdheemar123@gmail.com**
 
