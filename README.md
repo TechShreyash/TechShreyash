@@ -15,7 +15,8 @@ Let me introduce you about myself, my name is Shreyash; 16 y.o from India.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/techshreyash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="techshreyash" height="30" width="40" /></a>
+
+<a href="https://telegram.me/TechShreyash" target="blank"><img align="center" src="https://i.imgur.com/TzCA2Oh.png" alt="TechShreyash" height="40" width="40" /></a>
 <a href="https://twitter.com/techshreyash13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="techshreyash13" height="30" width="40" /></a>
 <a href="https://instagram.com/tech_shreyash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tech_shreyash" height="30" width="40" /></a>
 <a href="https://youtube.com/channel/UCrtNsDOWX1TYFur2gGrmnzA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tech shreyash" height="30" width="40" /></a>
