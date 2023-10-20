@@ -25,7 +25,7 @@ jobs:
           pip install requests
           
       - name: execute py script
-        run: python something/tpx.py
+        run: python something/gogo_cookie_gen.py
           
       - name: commit files
         run: |
