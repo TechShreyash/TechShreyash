@@ -1,6 +1,6 @@
 ## Hello There :wave:, Welcome to my GitHub profile.
 
-Let me introduce you about myself, my name is Shreyash; 16 y.o from India.
+Let me introduce you about myself, my name is Shreyash; 17 y.o from India.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techshreyash&label=Profile%20views&color=0e75b6&style=flat" alt="techshreyash" /> </p>
 
