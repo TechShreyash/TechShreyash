@@ -2,7 +2,7 @@
 
 Let me introduce you about myself, my name is Shreyash; 17 y.o from India.
 
-<p align="left"> <img src="https://stats.techzbots.co/api/views_badge?page=https%3A%2F%2Fgithub.com%2FTechShreyash&color1=5e6472&color2=3ec300&label=Profile%20Views " alt="Profile Views"></p>
+<p align="left"> <img src="https://stats.techzbots.co/api/views_badge?page=https%3A%2F%2Fgithub.com%2FTechShreyash&color1=5e6472&color2=3ec300&label=Profile%20Views&v=1" alt="Profile Views"></p>
 
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=techshreyash" alt="techshreyash" /> </p>
 
